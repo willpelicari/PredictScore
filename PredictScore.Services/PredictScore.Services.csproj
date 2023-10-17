@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PredictScore.Core\PredictScore.Core.csproj" />
+    <ProjectReference Include="..\PredictScore.Repository\PredictScore.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
