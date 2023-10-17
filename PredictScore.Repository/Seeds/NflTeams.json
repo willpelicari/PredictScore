@@ -1,0 +1,226 @@
+[
+  {
+    "Id": 1,
+    "Acronym": "ARZ",
+    "ShortName": "Cardinals",
+    "FullName": "Arizona Cardinals",
+    "SportId": 1
+  },
+  {
+    "Id": 2,
+    "Acronym": "ATL",
+    "ShortName": "Falcons",
+    "FullName": "Atlanta Falcons",
+    "SportId": 1
+  },
+  {
+    "Id": 3,
+    "Acronym": "BLT",
+    "ShortName": "Ravens",
+    "FullName": "Baltimore Ravens",
+    "SportId": 1
+  },
+  {
+    "Id": 4,
+    "Acronym": "BUF",
+    "ShortName": "Bills",
+    "FullName": "Buffalo Bills",
+    "SportId": 1
+  },
+  {
+    "Id": 5,
+    "Acronym": "CAR",
+    "ShortName": "Panthers",
+    "FullName": "Carolina Panthers",
+    "SportId": 1
+  },
+  {
+    "Id": 6,
+    "Acronym": "CHI",
+    "ShortName": "Bears",
+    "FullName": "Chicago Bears",
+    "SportId": 1
+  },
+  {
+    "Id": 7,
+    "Acronym": "CIN",
+    "ShortName": "Bengals",
+    "FullName": "Cincinatti Bengals",
+    "SportId": 1
+  },
+  {
+    "Id": 8,
+    "Acronym": "CLV",
+    "ShortName": "Browns",
+    "FullName": "Cleveland Browns",
+    "SportId": 1
+  },
+  {
+    "Id": 9,
+    "Acronym": "DAL",
+    "ShortName": "Cowboys",
+    "FullName": "Dallas Cowboys",
+    "SportId": 1
+  },
+  {
+    "Id": 10,
+    "Acronym": "DEN",
+    "ShortName": "Broncos",
+    "FullName": "Denver Broncos",
+    "SportId": 1
+  },
+  {
+    "Id": 11,
+    "Acronym": "DET",
+    "ShortName": "Lions",
+    "FullName": "Detroit Lions",
+    "SportId": 1
+  },
+  {
+    "Id": 12,
+    "Acronym": "GB",
+    "ShortName": "Packers",
+    "FullName": "Green Bay Packers",
+    "SportId": 1
+  },
+  {
+    "Id": 13,
+    "Acronym": "HST",
+    "ShortName": "Texas",
+    "FullName": "Houston Texas",
+    "SportId": 1
+  },
+  {
+    "Id": 14,
+    "Acronym": "IND",
+    "ShortName": "Colts",
+    "FullName": "Indianapolis Colts",
+    "SportId": 1
+  },
+  {
+    "Id": 15,
+    "Acronym": "JAX",
+    "ShortName": "Jaguars",
+    "FullName": "Jacksonville Jaguars",
+    "SportId": 1
+  },
+  {
+    "Id": 16,
+    "Acronym": "KC",
+    "ShortName": "Chiefs",
+    "FullName": "Kansas City Chiefs",
+    "SportId": 1
+  },
+  {
+    "Id": 17,
+    "Acronym": "LV",
+    "ShortName": "Raiders",
+    "FullName": "Las Vegas Raiders",
+    "SportId": 1
+  },
+  {
+    "Id": 18,
+    "Acronym": "LAC",
+    "ShortName": "Chargers",
+    "FullName": "Los Angeles Chargers",
+    "SportId": 1
+  },
+  {
+    "Id": 19,
+    "Acronym": "LA",
+    "ShortName": "Rams",
+    "FullName": "Los Angeles Rams",
+    "SportId": 1
+  },
+  {
+    "Id": 20,
+    "Acronym": "MIA",
+    "ShortName": "Dolphins",
+    "FullName": "Miami Dolphins",
+    "SportId": 1
+  },
+  {
+    "Id": 21,
+    "Acronym": "MIN",
+    "ShortName": "Vikings",
+    "FullName": "Minnesota Vikings",
+    "SportId": 1
+  },
+  {
+    "Id": 22,
+    "Acronym": "NE",
+    "ShortName": "Patriots",
+    "FullName": "New England Patriots",
+    "SportId": 1
+  },
+  {
+    "Id": 23,
+    "Acronym": "NO",
+    "ShortName": "Saints",
+    "FullName": "New Orleans Saints",
+    "SportId": 1
+  },
+  {
+    "Id": 24,
+    "Acronym": "NYG",
+    "ShortName": "Giants",
+    "FullName": "New York Giants",
+    "SportId": 1
+  },
+  {
+    "Id": 25,
+    "Acronym": "NYJ",
+    "ShortName": "Jets",
+    "FullName": "New York Jets",
+    "SportId": 1
+  },
+  {
+    "Id": 26,
+    "Acronym": "PHI",
+    "ShortName": "Eagles",
+    "FullName": "Philadelphia Eagles",
+    "SportId": 1
+  },
+  {
+    "Id": 27,
+    "Acronym": "PIT",
+    "ShortName": "Steelers",
+    "FullName": "Pittsburgh Steelers",
+    "SportId": 1
+  },
+  {
+    "Id": 28,
+    "Acronym": "SF",
+    "ShortName": "49ers",
+    "FullName": "San Francisco 49ers",
+    "SportId": 1
+  },
+  {
+    "Id": 29,
+    "Acronym": "SEA",
+    "ShortName": "Seahawks",
+    "FullName": "Seattle Seahawks",
+    "SportId": 1
+  },
+  {
+    "Id": 30,
+    "Acronym": "TB",
+    "ShortName": "Buccaneers",
+    "FullName": "Tampa Bay Buccaneers",
+    "SportId": 1
+  },
+  {
+    "Id": 31,
+    "Acronym": "TEN",
+    "ShortName": "Titans",
+    "FullName": "Tennessee Titans",
+    "SportId": 1
+  },
+  {
+    "Id": 32,
+    "Acronym": "WAS",
+    "ShortName": "Commanders",
+    "FullName": "Washington Commanders",
+    "SportId": 1
+  }
+]
